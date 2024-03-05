@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-template",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "loader": "^2.1.1",
+    "style": "^0.0.3",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "style-loader": "^3.3.4"
+  }
+}
